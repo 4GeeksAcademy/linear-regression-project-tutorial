@@ -2,7 +2,7 @@
 	"slug" : "linear-regression-project-tutorial",
 	"title" : "Linear Regression Project Tutorial",
 	"preview": "https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/preview.png?raw=true",
-	"solution": "https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution_guide.ipynb",
+	"solution": "https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
 	"technologies": ["data-science", "machine-learning"],
