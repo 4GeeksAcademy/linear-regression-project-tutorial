@@ -8,10 +8,11 @@
 	"solution": "https://github.com/4GeeksAcademy/linear-regression-project-tutorial/blob/main/solution.ipynb",
 	"status": "published",
 	"translations": ["us"],
-	"technologies": ["data-science", "machine-learning"],
+	"technologies": ["data-science", "machine-learning", "python", "matplotlib", "pandas", "numpy"],
 	"difficulty": "beginner",
 	"syntax": "python",
 	"duration" : 2,
+	"template_url": "https://github.com/4GeeksAcademy/machine-learning-python-template",
     	"projectType": "project",
 	"description": {
         "en": "How much will your insurance cost based on a set of variables? Use this small dataset to model the relationship between several explanatory variables and a numerical target using a linear regression algorithm.",
